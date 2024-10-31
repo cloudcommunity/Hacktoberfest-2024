@@ -1,4 +1,8 @@
-# 🎃 Hacktoberfest Contribution Guide 🌱
+# 🎃 Hacktoberfest 2024 Contribution Guide 🌱
+
+Hacktoberfest 2024 resources.
+
+[Hacktoberfest 2024 Git Cheat Sheet](https://github.com/cloudcommunity/Hacktoberfest-2024/blob/main/Hacktoberfest-2024-Git-Cheat-Sheet.pdf)
 
 > _Green is growth, Black is sleek, and Cream is smooth – just like your Hacktoberfest journey!_
 
